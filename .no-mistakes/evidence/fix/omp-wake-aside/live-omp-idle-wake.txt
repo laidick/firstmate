@@ -1,0 +1,25 @@
+=== aside
+                                                      ████████████
+                                                         ██  ██       ▄▀▀▄ █▀▄▀▄ █▀▀▄
+                                                         ██  ██       ▀▄▄▀ █ █ █ █▄▄▀
+                                                         ▒▒  ██                  █
+                                                             ██       v18.8.7
+                                           Tip: Press ⇧⇥ to cycle through reasoning effort levels
+ Connected to MCP servers: context-mode, grafana.
+ Reply with exactly: ASIDE-WAKE-OK
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ ✘ Was there a typo in the url or port?
+ Dismissed when you send your next message.
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+╭── π > ◑ gateway/5090 (GW2 service alias: RTX 5090 NInfer Qwen3.8-27B NVFP4, NAS :4010) 👁 > 🗑 fm-lab.bMU3n9 ▶──8%──────────────┃───239K───╮
+╰─                                                                                                                                        ─╯
+=== followUp
+                                                      ████████████
+                                                         ██  ██       ▄▀▀▄ █▀▄▀▄ █▀▀▄
+                                                         ██  ██       ▀▄▄▀ █ █ █ █▄▄▀
+                                                         ▒▒  ██                  █
+                                                             ██       v18.8.7
+                                                        Tip: Please use nerdfont 😭.
+ Connected to MCP servers: context-mode, grafana.
+╭── π > ◑ gateway/5090 (GW2 service alias: RTX 5090 NInfer Qwen3.8-27B NVFP4, NAS :4010) 👁 > 🗑 fm-lab.bMU3n9 ▶──8%──────────────┃───239K───╮
+╰─                                                                                                                                        ─╯
